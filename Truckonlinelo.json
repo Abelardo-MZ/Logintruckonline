@@ -1,9 +1,9 @@
 [
   {
-    "id": "6d95fal7c7e40bea",
-    "username": "dpmods",
-    "password": "dpmods",
-    "expiresAt": "2025-12-31",
+    "id": "208648533d0bde97",
+    "username": "Abelardo",
+    "password": "Abelardo",
+    "expiresAt": "2027-12-31",
     "allowOffline": true
   },
   {
@@ -12,11 +12,5 @@
     "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
-  },
-  {
-    "id": "208648533d0bde97",
-    "username": "Abelardo",
-    "password": "Abelardo",
-    "expiresAt": "2027-12-31",
-    "allowOffline": true
-  },
+  }
+]
