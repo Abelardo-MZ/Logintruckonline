@@ -7,6 +7,90 @@
     "allowOffline": true
   },
   {
+    "id": "fa57b76698b26ed0",
+    "username": "Seven",
+    "password": "Seven",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "6bf220837f5d9a35",
+    "username": "Felizardo",
+    "password": "#Wa20252025",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "02b56df5ec66be20",
+    "username": "ManuelSousa",
+    "password": "Manuel02",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "07067d8f1c86d78f",
+    "username": "DanubioMazuze",
+    "password": "Mazuze01",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "3f6f64ecf94bb466",
+    "username": "exodiocande",
+    "password": "2Fortunato1",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "26839a2eab9b09be",
+    "username": "Rafael",
+    "password": "Rafael",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "27de022eea2be413",
+    "username":"Abelardo",
+    "password": "Abelardo",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "64de87047a59b99c",
+    "username": "Trecadoh",
+    "password": "Trecadoh",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "1729cfb055a94bd1",
+    "username": "Dany",
+    "password": "199600",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "7fcd90a5c64068fb",
+    "username": "Aminudine",
+    "password": "Juma",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
